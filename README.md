@@ -7,6 +7,8 @@ SQL Relational database using tables, CRUD (including load + query), and primary
 -Three tables created/used: Customers, Orders, RMA
 
 Attributes:
--Customer table: customerID [PK], first name, last name, stress, city, state, zipcode, telephone
--Orders table: order ID [PK], customer ID, SKY, description
--RMA: RMAID [PK], reason, order ID, status, step
+-Customer table: CustomerID [PK], FirstName, LastName, Street, City, State, ZipCode, Telephone
+-Orders table: OrderID [PK], CustomerID, SKY, Description
+-RMA: RMAID [PK], Reason, OrderID, Status, Step
+
+CSV sheets:

@@ -47,19 +47,23 @@ Enclosed by '"' lines terminated by '\n';
 select count(*) from customers
 INNER JOIN orders
 on customers.CustomerID = Orders.CustomerID
-where Customers.City = 'Framingham';
+where Customers.City = 'Brooklyn';
 
 select count(*) from customers
 INNER JOIN orders
 on customers.CustomerID = orders.CustomerID
-where customers.State = 'Massachusetts';
+where customers.State = 'DE';
 
 insert into customers
 values
-(100004, 'Luke', 'Skywalker', '17 Maiden Lane', 'New York', 'NY', 10222, '212-555-1234'),
-(100005, 'Winston', 'Smith', '128 Sycamore Street', 'Greensboro', 'NC', 27401, '919-555-6623'),
-(100006, 'MaryAnne', 'Jenkins', '2 Coconut Way', 'Jupiter', 'FL', 33458, '321-555-807'),
-(100007, 'Janet', 'Williams', '58 Redondo Beach Blvd', 'Torence', 'CA', 90501, '310-555-5678');
+(100004, 'Black', 'Widow', '6 Avengers Blvd', 'Infinity', 'Washington', 10242, '624-555-2483'),
+(100005, 'Kylo', 'Ren', '202 Sith Street', 'First Order', 'Michigan', 27901, '827-555-6527'),
+(100006, 'William', 'Riker', '1701 Enterprise Lane', 'Starship', 'Delware', 37458, '578-555-1659'),
+(100007, 'Miles', 'Morales', '58 Webster Road', 'Brooklyn', 'New York', 92501, '349-555-4837'),
+(100008, 'Anakin', 'Skywalker', '17 Lightsaber Lane', 'Tatooine City', 'Arizona', 10222, '627-555-1234'),
+(100009, 'Poison', 'Ivy', '128 Green Circle', 'Botany', 'Washington', 27401, '861-555-6623'),
+(100010, 'Hikaru', '2290 Excelsior Street', '1966 ', 'Starship', 'Delware', 33458, '372-555-8207'),
+(100011, 'Peter', 'Parker', '167 Webbing Avenue', 'Brooklyn', 'New York', 90501, '674-555-5678');
 
 insert into orders
 values
@@ -71,7 +75,7 @@ values
 select count(*) from customers
 inner join orders
 ON customers.CustomerID = orders.CustomerID
-where customers.City = 'Woonsocket';
+where customers.City = 'Brooklyn';
 
 update RMA 
 set Status = 'Complete', 

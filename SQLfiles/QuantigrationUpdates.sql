@@ -68,17 +68,21 @@ LINES TERMINATED by '\n';
 --add data to existing customers and orders tables
 INSERT INTO Customers
 VALUES
-(100004, 'Luke', 'Skywalker', '17 Maiden Lane', 'New York', 'NY', 10222, '212-555-1234'),
-(100005, 'Winston', 'Smith', '128 Sycamore Street', 'Greensboro', 'NC', 27401, '919-555-6623'),
-(100006, 'MaryAnne', 'Jenkins', '2 Coconut Way', 'Jupiter', 'FL', 33458, '321-555-807'),
-(100007, 'Janet', 'Williams', '58 Redondo Beach Blvd', 'Torence', 'CA', 90501, '310-555-5678');
+(1000201, 'Black', 'Widow', '6 Avengers Blvd', 'Infinity', 'Washington', 10242, '624-555-2483'),
+(1000202, 'Kylo', 'Ren', '202 Sith Street', 'First Order', 'Michigan', 27901, '827-555-6527'),
+(1000203, 'William', 'Riker', '1701 Enterprise Lane', 'Starship', 'Delware', 37458, '578-555-1659'),
+(1000204, 'Miles', 'Morales', '58 Webster Road', 'Brooklyn', 'New York', 92501, '349-555-4837'),
+(1000205, 'Anakin', 'Skywalker', '17 Lightsaber Lane', 'Tatooine City', 'Arizona', 10222, '627-555-1234'),
+(1000206, 'Poison', 'Ivy', '128 Green Circle', 'Botany', 'Washington', 27401, '861-555-6623'),
+(1000207, 'Hikaru', '2290 Excelsior Street', '1966 ', 'Starship', 'Delware', 33458, '372-555-8207'),
+(1000208, 'Peter', 'Parker', '167 Webbing Avenue', 'Brooklyn', 'New York', 90501, '674-555-5678');
 
 INSERT INTO Orders
 VALUES
-(1204305, 100004, 'ADV-24-10C', 'Advanced Switch 10GigE Copper 24 port'),
-(1204306, 100005, 'ADV-48-10F', 'Advanced Switch 10 GigE Copper/Fiber 44 port copper 4 port fiber'),
-(1204307, 100006, 'ENT-24-10F', 'Enterprise Switch 10GigE SFP+ 24 Port'),
-(1204308, 100007, 'ENT-48-10F', 'Enterprise Switch 10GigE SFP+ 48 port');
+(1204305, 1000201, 'ADV-24-10C', 'Advanced Switch 10GigE Copper 24 port'),
+(1204306, 1000204, 'ADV-48-10F', 'Advanced Switch 10 GigE Copper/Fiber 44 port copper 4 port fiber'),
+(1204307, 1000206, 'ENT-24-10F', 'Enterprise Switch 10GigE SFP+ 24 Port'),
+(1204308, 1000207, 'ENT-48-10F', 'Enterprise Switch 10GigE SFP+ 48 port');
 
 --update/verify RMA file with OrderID 5175
 UPDATE RMA 
@@ -94,18 +98,17 @@ WHERE OrdersID = 5175;
 DELETE FROM RMA
 WHERE Reason LIKE 'Re%';
 
---counts orders from customers in Framingham (city)
+--counts orders from customers in Starship (city)
 SELECT count(*) FROM Customers
 INNER JOIN Orders
 ON Customers.CustomerID = Orders.CustomerID
-WHERE Customers.City = 'Framingham';
+WHERE Customers.City = 'Brooklyn';
 
---counts orders from customers in Massachusetts
-how many orders are from customer in Massachusetts?
+--counts orders from customers in New York
 SELECT count(*) FROM Customers
 INNER JOIN Orders
 ON Customers.CustomerID = Orders.CustomerID
-WHERE Customers.State = 'Massachusetts';
+WHERE Customers.State = 'New York';
 
 --counts totals of orders for each product
 SELECT count(*) AS TotalOrders, SKU, Description 
@@ -113,7 +116,7 @@ FROM Orders
 GROUP BY SKU 
 ORDER BY Sales desc 
 
---most ordered products in the Southeastern region
+--most ordered products in the Southeast sales region (Virginia, North Carolina, South Carolina, Georgia)
 SELECT count(*) AS Sales, SKU, Description 
 FROM Orders 
 INNER JOIN Customers
@@ -133,8 +136,7 @@ GROUP BY SKU
 ORDER BY Returns desc 
 LIMIT 5;
 
--- top 3 products returned from Northwest region
-What are the 3 most returned products in the Northwest region?
+-- top 3 products returned from Northwest sales region (Washington, Oregon, Idaho, Montana)
 SELECT count(*) AS Returns, SKU, Description 
 FROM Orders 
 INNER JOIN RMA ON Orders.OrderID = RMA.OrderID
