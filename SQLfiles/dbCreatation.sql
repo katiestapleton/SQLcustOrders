@@ -56,21 +56,22 @@ where customers.State = 'DE';
 
 insert into customers
 values
-(1000201, 'Black', 'Widow', '6 Avengers Blvd', 'Infinity', 'Washington', 10242, '624-555-2483'),
-(1000202, 'Kylo', 'Ren', '202 Sith Street', 'First Order', 'Michigan', 27901, '827-555-6527'),
-(1000203, 'William', 'Riker', '1701 Enterprise Lane', 'Starship', 'Delware', 37458, '578-555-1659'),
-(1000204, 'Miles', 'Morales', '58 Webster Road', 'Brooklyn', 'New York', 92501, '349-555-4837'),
-(1000205, 'Anakin', 'Skywalker', '17 Lightsaber Lane', 'Tatooine City', 'Arizona', 10222, '627-555-1234'),
-(1000206, 'Poison', 'Ivy', '128 Green Circle', 'Botany', 'Washington', 27401, '861-555-6623'),
-(1000207, 'Hikaru', '2290 Excelsior Street', '1966 ', 'Starship', 'Delware', 33458, '372-555-8207'),
-(1000208, 'Peter', 'Parker', '167 Webbing Avenue', 'Brooklyn', 'New York', 90501, '674-555-5678');
+(1000501, 'Black', 'Widow', '6 Avengers Blvd', 'Infinity', 'Washington', 10242, '624-555-2483'),
+(1000502, 'Kylo', 'Ren', '202 Sith Street', 'First Order', 'Michigan', 27901, '827-555-6527'),
+(1000503, 'William', 'Riker', '1701 Enterprise Lane', 'Starship', 'Delware', 37458, '578-555-1659'),
+(1000504, 'Miles', 'Morales', '58 Webster Road', 'Brooklyn', 'New York', 92501, '349-555-4837'),
+(1000505, 'Anakin', 'Skywalker', '17 Lightsaber Lane', 'Tatooine City', 'Arizona', 10222, '627-555-1234'),
+(1000506, 'Poison', 'Ivy', '128 Green Circle', 'Botany', 'Washington', 27401, '861-555-6623'),
+(1000507, 'Hikaru', 'Sulu','2290 Excelsior Street', '1966 ', 'Starship', 'Delware', 33458, '372-555-8207'),
+(1000508, 'Peter', 'Parker', '167 Webbing Avenue', 'Brooklyn', 'New York', 90501, '674-555-5678');
 
 insert into orders
 values
-(1204305, 1000201, 'ADV-24-10C', 'Advanced Switch 10GigE Copper 24 port'),
-(1204306, 1000204, 'ADV-48-10F', 'Advanced Switch 10 GigE Copper/Fiber 44 port copper 4 port fiber'),
-(1204307, 1000206, 'ENT-24-10F', 'Enterprise Switch 10GigE SFP+ 24 Port'),
-(1204308, 1000207, 'ENT-48-10F', 'Enterprise Switch 10GigE SFP+ 48 port');
+(1203001, 1000501, 'CAF-533', 'Cranberries - Dried'),
+(1203002, 1000504, 'ACT-222', 'Appetizer - Calamari'),
+(1203004, 1000506, 'WUR-362', 'Potatoes - Idaho'),
+(1203005, 1000507, 'NES-242', 'Soup - Tomato');
+(1203006, 1000507, 'GED-347', 'Cheese - Grana Padano');
 
 select count(*) from customers
 inner join orders

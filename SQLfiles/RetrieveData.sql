@@ -6,7 +6,7 @@ INNER JOIN customers
 ON orders.CustomerID = customers.CustomerID
 WHERE RMA.Status = 'Complete'
 Group by customers.State
-Order by RETURNS desc;
+Order by Returns desc;
 
 
 SELECT count(*) as RETURNS, SKU, Description
