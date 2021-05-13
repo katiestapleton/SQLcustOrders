@@ -1,7 +1,7 @@
 # SQLcustOrders
 
 Customer order database: manage/analyze customer demographics, product orders, and order status.
-SQL Relational database using tables, CRUD (including load + query), and primary/foreign keys.
+SQL Relational database using tables, CRUD (including load + query), joins, and primary/foreign keys.
 
 <i>Files:</i>
 <ul>
