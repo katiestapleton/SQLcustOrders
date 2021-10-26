@@ -1,13 +1,19 @@
+--Author: Katie Stapleton
+--Customer Orders DB Project
+--File: QuantigrationUpdates.sql
+--https://github.com/katiestapleton/SQLcustOrders/tree/development
+
+
 --DATABASE SCHEMA--
 USE QuantigrationUpdates; 
---create the Quanigration Orders database
+--CREATE the Quanigration Orders database
 CREATE DATABASE QuantigrationOrders;
 
 --list all databases and select the correct database to use
 SHOW DATABASES;
 USE QuantigrationOrders; 
 
---create Customers, Orders, and RMA tables
+--CREATE Customers, Orders, and RMA tables
 CREATE TABLE Customers (
 CustomerID INT,
 FirstName VARCHAR(25),
@@ -57,13 +63,13 @@ LOAD DATA INFILE '/home/codio/workspace/Orders.csv'
 INTO TABLE Orders
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"' 
-LINES TERMINATED by '\n';
+LINES TERMINATED BY '\n';
 
 LOAD DATA INFILE '/home/codio/workspace/rma.csv'
 INTO TABLE RMA
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"' 
-LINES TERMINATED by '\n';
+LINES TERMINATED BY '\n';
 
 --add data to existing customers and orders tables
 INSERT INTO Customers
@@ -100,25 +106,25 @@ DELETE FROM RMA
 WHERE Reason LIKE 'Re%';
 
 --counts orders from customers in Starship (city)
-SELECT count(*) FROM Customers
+SELECT COUNT(*) FROM Customers
 INNER JOIN Orders
 ON Customers.CustomerID = Orders.CustomerID
 WHERE Customers.City = 'Brooklyn';
 
 --counts orders from customers in New York
-SELECT count(*) FROM Customers
+SELECT COUNT(*) FROM Customers
 INNER JOIN Orders
 ON Customers.CustomerID = Orders.CustomerID
 WHERE Customers.State = 'New York';
 
 --counts totals of orders for each product
-SELECT count(*) AS TotalOrders, SKU, Description 
+SELECT COUNT(*) AS TotalOrders, SKU, Description 
 FROM Orders 
 GROUP BY SKU 
-ORDER BY Sales desc 
+ORDER BY Sales desc; 
 
 --most ordered products in the Southeast sales region (Virginia, North Carolina, South Carolina, Georgia)
-SELECT count(*) AS Sales, SKU, Description 
+SELECT COUNT(*) AS Sales, SKU, Description 
 FROM Orders 
 INNER JOIN Customers
 ON Orders.CustomerID = Customers.CustomerID
@@ -128,7 +134,7 @@ ORDER BY Sales desc
 LIMIT 3;
 
 --top 5 products from completed orders
-SELECT count(*) AS Returns, SKU, Description 
+SELECT COUNT(*) AS Returns, SKU, Description 
 FROM Orders 
 INNER JOIN RMA
 ON Orders.OrderID = RMA.OrderID
@@ -138,7 +144,7 @@ ORDER BY Returns desc
 LIMIT 5;
 
 -- top 3 products returned from Northwest sales region (Washington, Oregon, Idaho, Montana)
-SELECT count(*) AS Returns, SKU, Description 
+SELECT COUNT(*) AS Returns, SKU, Description 
 FROM Orders 
 INNER JOIN RMA ON Orders.OrderID = RMA.OrderID
 INNER JOIN Customers on Orders.CustomerID = Customers.CustomerID
