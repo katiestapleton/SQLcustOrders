@@ -1,50 +1,54 @@
-SELECT count(*) as RETURNS, customers.State
+--Author: Katie Stapleton
+--Customer Orders DB Project
+--File: RetrieveData.sql
+--https://github.com/katiestapleton/SQLcustOrders/tree/development
+
+
+SELECT COUNT(*) AS Returns, customers.State
 FROM orders
 INNER JOIN RMA
-on orders.OrderID = RMA.OrderID
+ON orders.OrderID = RMA.OrderID
 INNER JOIN customers
 ON orders.CustomerID = customers.CustomerID
 WHERE RMA.Status = 'Complete'
-Group by customers.State
-Order by Returns desc;
+GROUP BY customers.State
+ORDER BY Returns desc;
 
 
-SELECT count(*) as RETURNS, SKU, Description
+SELECT COUNT(*) as Returns, SKU, Description
 FROM orders
 INNER JOIN RMA
-on orders.OrderID = RMA.OrderID
+ON orders.OrderID = RMA.OrderID
 WHERE RMA.Status = 'Complete'
 GROUP BY SKU
-Order by Returns
-;
+ORDER BY Returns;
 
-Select count(*) AS Returns, SKU, Description
+SELECT COUNT(*) AS Returns, SKU, Description
 FROM orders 
 INNER JOIN RMA
 ON orders.OrderID = RMA.OrderID
-Where RMA.Status = 'Complete'
-Group by SKU 
-Order by Returns desc ;
+WHERE RMA.Status = 'Complete'
+GROUP BY SKU 
+ORDER BY Returns desc;
 
 (COUNT(*)/SUM(COUNT())*100) AS PERCENT
 
 
 GROUP BY 
 
-
-Select count(*) AS Returns, SKU, Description 
+SELECT COUNT(*) AS Returns, SKU, Description 
 FROM orders 
 INNER JOIN RMA
 ON orders.OrderID = RMA.OrderID
-Where RMA.Status = 'Complete'
-Group by SKU 
-Order by Returns desc; 
+WHERE RMA.Status = 'Complete'
+GROUP BY SKU 
+ORDER BY Returns desc; 
 
-Select count(*) AS Returns, SKU, Description 
+SELECT COUNT(*) AS Returns, SKU, Description 
 FROM Orders 
 INNER JOIN RMA ON Orders.OrderID = RMA.OrderID
-INNER JOIN Customers on Orders.CustomerID = Customers.CustomerID
-Where RMA.Status = 'Complete' AND
-Customers.State in ('Washington', 'Oregon', 'Idaho', 'Montana') 
-Group by SKU 
-Order by Returns desc 
+INNER JOIN Customers ON Orders.CustomerID = Customers.CustomerID
+WHERE RMA.Status = 'Complete' AND
+Customers.State IN ('Washington', 'Oregon', 'Idaho', 'Montana') 
+GROUP BY SKU 
+ORDER BY Returns desc; 
