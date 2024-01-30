@@ -1,0 +1,1001 @@
+OrderID,CustomerID,SKU,Description
+1200001,1000082,FUW-832,Salt - Seasoned
+1200002,1000074,QAW-343,Cheese - Shred Cheddar / Mozza
+1200003,1000157,CUT-235,Thyme - Fresh
+1200004,1000323,QTK-267,Bread - French Baquette
+1200005,1000286,YUN-534,Apple - Red
+1200006,1000092,VAY-666,"Bread - White, Unsliced"
+1200007,1000263,TEN-943,Muffin - Orange Individual
+1200008,1000380,YUD-399,Potato - Sweet
+1200009,1000135,YEG-368,"Cheese - Mozzarella, Shredded"
+1200010,1000501,VEN-794,"Pasta - Detalini, White, Fresh"
+1200011,1000267,BAV-873,Bread - Sour Batard
+1200012,1000094,VEN-945,"Cheese - Cheddar, Old White"
+1200013,1000331,QVW-855,Clams - Bay
+1200014,1000392,XVA-662,Flour - All Purpose
+1200015,1000262,PAY-788,Pastry - Frosted Cinnamon Buns 
+1200016,1000278,TAS-395,"Zucchini - Mini, Green"
+1200017,1000091,QUC-565,Pepper - Orange
+1200018,1000302,TWX-665,Oil - Olive
+1200019,1000168,MUN-355,Tomatoes - Plum
+1200020,1000254,JAK-827,Baking Powder
+1200021,1000521,MEC-824,Pork - Chopped
+1200022,1000138,TUV-483,Beans - French
+1200023,1000470,TAS-395,"Zucchini - Mini, Green"
+1200024,1000506,GAB-893,Beef - Rib Roast
+1200025,1000049,PAF-629,Tea - Camomele
+1200026,1000343,PED-728,Sour Cream
+1200027,1000062,QAB-442,Chicken - Whole
+1200028,1000437,SEC-826,Lettuce - Radicchio
+1200029,1000467,DEH-938,Bread Crumbs - Panko
+1200030,1000088,UMW-923,Coffee - Decafe
+1200031,1000071,WAS-947,Rice - Wild
+1200032,1000292,ZNV-886,Sauce - Caesar Dressing
+1200033,1000361,FAP-822,Tea - Green
+1200034,1000111,JSD-648,Lettuce - Romania
+1200035,1000096,XVT-867,"Pasta - Lasagna Noodle, Frozen"
+1200036,1000363,GUB-694,Potatoes - Yukon
+1200037,1000314,BEM-932,Cheese - Cheddar
+1200038,1000201,GUB-694,Potatoes - Yukon
+1200039,1000287,VAN-638,Sauce - Worcestershire
+1200040,1000302,EYG-536,Cheese - Gorgonzola
+1200041,1000188,YAG-562,Cheese - Asiago
+1200042,1000132,VAR-496,"Vinegar - Balsamic, White"
+1200043,1000059,NAF-372,Pastry - Baked Cinnamon Stick
+1200044,1000107,CEF-638,Pastry - Cream donut
+1200045,1000445,JEH-834,Cookie - Vanilla Dough
+1200046,1000198,DCC-844,Coffee Beans - Chocolate
+1200047,1000070,DEW-978,Chicken Thigh - Skinless
+1200048,1000275,VER-695,Onions - Granulated
+1200049,1000165,QEP-927,Pork - Loin
+1200050,1000200,YMY-645,Bread - Italian Roll With Herbs
+1200051,1000185,BUS-786,"Bread - Brouche, Unsliced"
+1200052,1000372,BEM-534,Cheese - Cheddar
+1200053,1000040,BEP-638,"Rum - Cream, Amarula"
+1200054,1000462,TUN-826,"Fish - Base, Bouillion"
+1200055,1000339,MUY-666,Tea - unsweetened
+1200056,1000504,CAV-968,"Nut - Chestnuts, Whole"
+1200057,,SEP-948,Bread - Crusty Italian
+1200058,1000483,GEA-239,Appetizer - Asian Shrimp Roll
+1200059,1000325,REN-647,Pastry - Cherry Danish
+1200060,1000455,WAS-947,Rice - Wild
+1200061,1000128,VEY-739,"Ice - clear, 5 lb"
+1200062,1000357,SET-342,Pepper - Red Thai
+1200063,1000513,DUW-273,Chicken - Drums
+1200064,1000053,SUJ-866,"Artichokes - Knobless, White"
+1200065,1000129,BEP-638,"Rum - Cream, Amarula"
+1200066,1000436,RUC-676,"Coconut - Shredded, Unsweet"
+1200067,1000105,CKY-553,Wine - Concord
+1200068,1000317,JSD-648,Lettuce - Romania
+1200069,1000367,TAS-395,"Zucchini - Mini, Green"
+1200070,1000070,DEK-797,Veal - Bones
+1200071,1000160,XEC-993,Pear - Packum
+1200072,1000481,TWX-665,Oil - Olive
+1200073,1000312,MZV-686,Cheese - Italian mix
+1200074,1000518,SER-845,Crab - Claws
+1200075,1000244,NUW-334,Onions - Green
+1200076,1000492,BUT-992,Lemon Tarts
+1200077,1000356,CAF-533,"Fruit - Cranberries, Dried"
+1200078,1000304,MSY-955,Fruit - Oranges
+1200079,1000528,BEN-574,Muffin - Carrot Spice
+1200080,1000294,GLE-635,Coffee - French Vanilla
+1200081,1000193,JEB-644,Leaves - Mit
+1200082,1000331,VEY-739,"Ice - clear, 5 lb"
+1200083,1000309,NJA-228,Celery - Chopped
+1200084,,WUB-746,"Pineapple - Canned, Rings"
+1200085,1000235,VEY-739,"Ice - clear, 5 lb"
+1200086,1000422,FUW-683,Pineapple - Regular
+1200087,1000458,FUD-543,"Tomatoes - Vine Ripe, Yellow"
+1200088,1000216,JMS-886,Pasta - Rotini
+1200089,1000075,JAV-758,Muffin - Creme Brule
+1200090,1000389,HAP-474,Steak - Sirloin
+1200091,1000126,AHC-737,Ginsing - Fresh
+1200092,1000437,TAR-356,Puree - Passion Fruit
+1200093,1000036,BAY-498,Wine - Placido Pinot Grigo
+1200094,1000360,HAH-794,"Beef - Grounded, Lean"
+1200095,1000286,WAG-234,Vinegar - White
+1200096,1000216,MUR-495,Tea - Vanilla Chai
+1200097,1000500,QEK-844,Chicken - Livers
+1200098,1000047,GAB-893,Beef - Rib Roast
+1200099,1000369,YET-578,Cinnamon Buns -  Sticky
+1200100,1000200,FEW-467,Irish Cream - Butterscotch
+1200101,1000367,RUT-264,"Turkey - Breast, Bone"
+1200102,1000037,CVG-446,Soup - Cream Of Potato
+1200103,1000054,YUY-287,Pear - Compound
+1200104,1000234,TZY-488,Beans - Soy Bean
+1200105,1000338,FAM-629,Sage - Grounded
+1200106,1000258,CUG-336,Country Roll
+1200107,1000218,YMY-645,Bread - Italian Roll With Herbs
+1200108,1000422,UYB-947,Baking Powder
+1200109,1000516,JAT-659,Beer - Pilsner Urquell
+1200110,1000059,JAT-574,"Pickles - Dill, Sliced"
+1200111,1000161,SET-466,Sun - Dried Tomatoes
+1200112,1000343,YAM-388,Wine - Casablanca Valley
+1200113,1000172,YET-578,Cinnamon Buns -  Sticky
+1200114,,XAK-234,"Pork - Back, Long Cut, Boneless"
+1200115,1000355,GEF-892,Basil - Fresh
+1200116,1000496,MUG-774,Crab - Legs
+1200117,,BUY-498,Tomatoes - Hot House
+1200118,1000286,HEF-355,Potatoes - Peeled
+1200119,1000363,BUY-498,Tomatoes - Hot House
+1200120,1000430,RAW-287,Fruit - Blackberries
+1200121,1000240,NAV-363,Iced Tea - Lemon
+1200122,1000033,ZAP-452,Wine - Riesling
+1200123,1000091,DCC-844,Coffee Beans - Chocolate
+1200124,1000050,TUV-483,Beans - French
+1200125,1000300,VEN-945,"Cheese - Cheddar, Old White"
+1200126,1000105,LCQ-848,Cookies - Oatmeal Raisin
+1200127,1000073,BAB-294,Garlic Powder
+1200128,1000228,BXP-553,Beans - Fine
+1200129,1000366,YUF-433,Oil - Coconut
+1200130,1000293,NUJ-879,Beef - Diced
+1200131,1000224,REB-447,Sauce - Soy
+1200132,1000057,PED-728,Sour Cream
+1200133,1000492,WAK-594,Power Drink - Gold
+1200134,1000130,HEY-875,Bread - Sour Dough
+1200135,1000517,DEY-287,Beef - Tender Tips
+1200136,1000266,WEJ-375,Muffin - English
+1200137,1000257,WUP-329,Eggplant - Asian
+1200138,1000035,FEM-245,Milk - Skim
+1200139,1000474,SER-693,Cheese - Brick With Onion
+1200140,1000232,NJA-843,Yogurt - Plain
+1200141,1000327,QAB-442,Chicken - Whole
+1200142,1000244,PAF-629,Cheese - Asiago
+1200143,1000309,PPV-378,Rice - Aborio
+1200144,1000316,VAD-633,"Pepper - Red, Finger Hot"
+1200145,1000106,UMW-923,Coffee - Decafe
+1200146,1000112,VAY-666,"Bread - White, Unsliced"
+1200147,1000401,PAV-763,Pastry - Lemon Danish
+1200148,1000041,KAX-978,Cake - Marble
+1200149,1000249,QEP-927,Pork - Loin
+1200150,1000165,HAT-596,Sugar - Brown
+1200151,1000222,SER-845,Crab - Claws
+1200152,1000459,GUB-694,Potatoes - Yukon
+1200153,1000157,VEL-754,"Cheese - Romano, Grated"
+1200154,1000149,WAS-649,Soup - Cream of Mushroom
+1200155,1000074,DUR-598,Apricots - Dried
+1200156,1000292,WUT-348,"Cheese - Romano, Grated"
+1200157,1000065,GEF-892,Basil - Fresh
+1200158,1000258,MUN-355,Tomatoes - Plum
+1200159,1000523,YUD-399,Potato - Sweet
+1200160,1000339,WAH-476,Muffin - English
+1200161,1000440,#REF!,#REF!
+1200162,1000129,PEG-787,Pasta - Canelloni
+1200163,1000260,QAF-592,Rice - Aborio
+1200164,1000419,DCC-844,Coffee Beans - Chocolate
+1200165,1000210,KUP-887,Water - Sparkling Mango
+1200166,1000296,MTU-899,Seafood - Trout Rainbow Whole
+1200167,1000213,XBW-733,Raisin - Dark
+1200168,1000515,SEL-447,Lettuce - Radicchio
+1200169,1000385,YEG-368,"Cheese - Mozzarella, Shredded"
+1200170,,JUV-249,"Cheese - Garlic, Herbs"
+1200171,1000093,QEK-844,Chicken - Livers
+1200172,1000051,RAW-525,Sauce - Chutney
+1200173,1000257,NAF-372,Pastry - Baked Cinnamon Stick
+1200174,1000286,FUV-878,"Fruit - Strawberries, chopped"
+1200175,1000421,NES-242,Soup - Tomato
+1200176,1000341,TAY-224,"Shrimp - Baby, Frozen"
+1200177,1000311,WUH-969,Chicken - Livers
+1200178,1000178,REY-369,Cheese - Cheddar Mix
+1200179,1000355,GUS-934,Soup - Cream of Chicken
+1200180,1000453,TAS-867,Rice - Brown
+1200181,1000157,PAY-788,Pastry - Frosted Cinnamon Buns 
+1200182,1000517,DAQ-345,Flour - Fast / Rapid
+1200183,1000407,WXT-692,"Sauce - Bernaise, Mix"
+1200184,1000402,TEK-628,Crab - Whole
+1200185,1000242,FAP-444,Sage - Whole
+1200186,1000297,JAV-758,Muffin - Creme Brule
+1200187,,GUM-775,Vinegar - Champagne
+1200188,1000194,BSP-752,Sauce - Salsa
+1200189,1000411,MUR-495,Tea - Vanilla Chai
+1200190,1000475,BEM-534,Cheese - Cheddar
+1200191,1000079,CAG-795,Cocoa Powder - Dutched
+1200192,1000439,JAK-827,Baking Powder
+1200193,1000518,PAW-654,Cheese - Feta
+1200194,1000395,XUB-627,"Rice - Fried, Plain"
+1200195,1000293,AHC-737,Ginsing - Fresh
+1200196,1000063,RAF-747,Sugar - White
+1200197,1000439,HEY-735,Pie Shell - graham cracker
+1200198,1000171,RUT-264,"Turkey - Breast, Bone"
+1200199,1000383,DWL-897,Rum - Light
+1200200,1000363,HEG-936,Ice Cream - Vanilla
+1200201,1000139,SEL-447,Lettuce - Radicchio
+1200202,1000118,FEM-245,Milk - Skim
+1200203,1000499,GEA-239,Appetizer - Asian Shrimp Roll
+1200204,1000314,REY-369,Cheese - Cheddar Mix
+1200205,1000310,MMG-249,Bread - Wheat Baguette
+1200206,1000378,TUS-984,Truffle Cups - Brown
+1200207,1000470,REH-843,"Pasta - Spaghetti, Dry"
+1200208,1000233,DEF-356,Garlic - Chopped
+1200209,1000268,BUY-498,Tomatoes - Hot House
+1200210,1000168,TUN-826,"Fish - Base, Bouillion"
+1200211,1000116,YVJ-794,Juice - Orange
+1200212,1000297,WXT-692,"Sauce - Bernaise, Mix"
+1200213,1000309,CCL-575,"Nut - Pecan, Halves"
+1200214,1000303,UKR-579,Rosemary - Fresh
+1200215,,SUJ-866,"Artichokes - Knobless, White"
+1200216,1000234,QEH-998,Rhubarb
+1200217,1000107,YMA-383,Sauce - Alfredo
+1200218,1000083,BUS-786,"Bread - Brouche, Unsliced"
+1200219,1000468,DAQ-345,Flour - Fast / Rapid
+1200220,1000382,MZV-686,Cheese - Italian mix
+1200221,1000264,WUC-938,Milk - Whole
+1200222,1000241,KEN-282,Pepper - Chili Powder
+1200223,1000359,NEJ-748,Peach - Halves
+1200224,1000191,XUB-627,"Rice - Fried, Plain"
+1200225,1000120,BSP-752,Sauce - Salsa
+1200226,1000340,NUW-334,Onions - Green
+1200227,1000356,DAQ-345,Flour - Fast / Rapid
+1200228,1000263,SET-342,Pepper - Red Thai
+1200229,1000072,WUH-969,Chicken - Livers
+1200230,1000447,MEV-827,Soup - Chicken Nodle
+1200231,1000439,WAS-649,Soup - Cream of Mushroom
+1200232,1000032,KEN-282,Pepper - Chili Powder
+1200233,1000487,EYG-536,Cheese - Gorgonzola
+1200234,1000234,CEQ-472,Thyme - Fresh
+1200235,1000422,QAF-592,Rice - Aborio
+1200236,1000122,NJA-843,Yogurt - Plain
+1200237,1000124,FUW-683,Pineapple - Regular
+1200238,1000344,JAK-827,Baking Powder
+1200239,1000318,MSY-955,Fruit - Oranges
+1200240,1000050,TUG-335,Tomato - Roma
+1200241,1000125,MUN-355,"Cheese - Brie, Triple Creme"
+1200242,1000523,PAY-788,Pastry - Frosted Cinnamon Buns 
+1200243,1000169,RAW-426,Pepper - Green Thai
+1200244,1000518,BAV-464,Water - Tonic
+1200245,1000511,NUW-334,Onions - Green
+1200246,1000265,DEC-394,Cake Slab
+1200247,1000370,BEN-574,Muffin - Carrot Spice
+1200248,1000293,ACT-222,Appetizer - Calamari
+1200249,1000488,XAK-234,"Pork - Back, Long Cut, Boneless"
+1200250,1000265,VUN-585,Pepper - Scotch Bonnet
+1200251,1000479,FFA-952,"Pepper - Black, Whole"
+1200252,1000151,MES-225,Pizza - Pepperoni
+1200253,1000451,GED-347,Cheese - Grana Padano
+1200254,1000066,CAF-533,"Fruit - Cranberries, Dried"
+1200255,1000259,LUK-923,Crab - cakes
+1200256,1000385,BAT-835,Tea Leaves - Oolong
+1200257,1000217,LAG-976,"Peas - Chick, Dried"
+1200258,1000500,DCC-844,Coffee Beans - Chocolate
+1200259,1000104,MEL-499,Fruit - watermelons
+1200260,1000113,GED-347,Cheese - Grana Padano
+1200261,1000074,DAB-569,"Beans - Kidney, Red Dry"
+1200262,1000483,HUR-756,Pie Shell - 9
+1200263,1000408,BXP-553,"Vinegar - Balsamic, White"
+1200264,1000300,LKX-626,Peppers - Red
+1200265,1000206,HAT-596,Sugar - Brown
+1200266,1000043,CAV-968,"Nut - Chestnuts, Whole"
+1200267,1000149,SAY-848,"Flour - Bran, Red"
+1200268,1000513,YUY-287,Pear - Compound
+1200269,1000209,FEM-245,Milk - Skim
+1200270,1000161,DUT-828,Syrup - Maple
+1200271,1000385,WAH-238,Pastry - Chocolate Baked
+1200272,1000108,VUN-585,Pepper - Scotch Bonnet
+1200273,1000515,DEP-996,Poppy Seed
+1200274,1000529,DUT-828,Syrup - Maple
+1200275,1000199,MKK-646,Coffee - Colombian
+1200276,1000434,RAW-525,Sauce - Chutney
+1200277,1000086,ZAP-452,Wine - Riesling
+1200278,1000324,VRW-435,Sugar - White Packet
+1200279,1000393,DRS-568,"Pasta - Tortellini, Fresh"
+1200280,1000345,JAT-659,Fruit - Bananas
+1200281,1000507,TUG-335,Tomato - Roma
+1200282,1000258,PUM-886,Muffin - Blueberry
+1200283,1000073,YAG-562,Cheese - Asiago
+1200284,1000056,KUV-282,Pastry - Apple Muffins Mini
+1200285,1000297,CDA-687,"Squash - Pattypan, Yellow"
+1200286,1000352,JUM-842,Fruit - Nectarines
+1200287,1000034,HBK-222,Pizza - Cheese
+1200288,1000281,YET-578,Cinnamon Buns -  Sticky
+1200289,1000400,DWL-897,Rum - Light
+1200290,1000039,VEY-739,"Ice - clear, 5 lb"
+1200291,1000064,QAB-984,Milk - chocolate
+1200292,1000110,TWX-665,Oil - Olive
+1200293,1000225,CDA-687,"Squash - Pattypan, Yellow"
+1200294,1000223,MUY-766,Peppers - Green
+1200295,1000348,NAF-372,Pastry - Baked Cinnamon Stick
+1200296,1000358,BUV-577,Cod - Fillets
+1200297,1000477,REW-494,Bread - Burger Buns
+1200298,1000325,SUJ-866,"Artichokes - Knobless, White"
+1200299,1000416,RLD-825,"Pasta - Lasagna Noodle, Frozen"
+1200300,1000305,HPQ-955,Oil - Peanut
+1200301,1000200,SAV-769,Sauce -  Meat
+1200302,1000305,HUR-756,Ice Cream - Strawberry
+1200303,1000475,QAB-984,Milk - chocolate
+1200304,1000266,REN-933,Glace - Browning Caramel 
+1200305,1000387,NAV-363,Iced Tea - Lemon
+1200306,1000190,VUG-359,Food Colouring - Orange
+1200307,1000453,NEJ-748,Peach - Halves
+1200308,1000155,GUC-654,Sauce - Cranberry
+1200309,1000481,UKR-579,Rosemary - Fresh
+1200310,1000195,NCK-887,Beef - Ribeye
+1200311,1000520,GUC-654,Sauce - Cranberry
+1200312,1000225,FKS-564,Coffee - Egg Nog Capuccino
+1200313,1000077,YET-578,Cinnamon Buns -  Sticky
+1200314,1000110,RLD-825,"Pasta - Lasagna Noodle, Frozen"
+1200315,1000381,MMG-249,Bread - Wheat Baguette
+1200316,1000412,HBQ-745,Steak - Sirloin
+1200317,1000506,YAY-956,Rice - Sushi
+1200318,1000090,MSY-955,Fruit - Oranges
+1200319,1000036,JXY-374,Tea - Peach
+1200320,1000502,TEV-987,"Cheese - Havarti, Roasted Garlic"
+1200321,1000192,PAF-629,Tea - Camomele
+1200322,1000304,MUK-872,Peppers - Diced mix
+1200323,1000236,DEN-489,Soup - Vegetable
+1200324,1000252,YAM-388,Wine - Casablanca Valley
+1200325,1000111,VAX-673,Tea - Herbal Orange Spice
+1200326,1000200,CKY-553,Wine - Concord
+1200327,1000313,BSC-976,Beef - Ground Medium
+1200328,1000360,SEL-447,Lettuce - Radicchio
+1200329,1000205,BUT-992,Lemon Tarts
+1200330,1000063,GUC-654,Sauce - Cranberry
+1200331,1000448,RAF-747,Sugar - White
+1200332,1000183,PAV-763,Pastry - Lemon Danish
+1200333,1000169,DAB-569,"Beans - Kidney, Red Dry"
+1200334,1000057,TEP-573,"Red Snapper - Fresh, Whole"
+1200335,1000231,XAR-956,Chicken - Base
+1200336,1000094,SAW-693,Cheese - Brick With Onion
+1200337,1000406,TAR-356,Puree - Passion Fruit
+1200338,1000079,FUP-254,"Pork - Ham, Virginia"
+1200339,1000457,BAV-873,Bread - Sour Batard
+1200340,1000189,UMW-923,Coffee - Decafe
+1200341,1000053,RUC-676,"Coconut - Shredded, Unsweet"
+1200342,1000494,GLE-635,Coffee - French Vanilla
+1200343,1000055,RAN-473,Mustard - Seed
+1200344,1000392,WZV-842,"Pork - Back, Boneless"
+1200345,1000170,VER-695,Onions - Granulated
+1200346,1000174,FUT-973,Salmon - Fillets
+1200347,1000062,WUH-969,Chicken - Livers
+1200348,1000363,GUM-775,Sauce - Cranberry
+1200349,1000178,XUB-627,"Rice - Fried, Plain"
+1200350,1000189,QVW-855,Clams - Bay
+1200351,1000228,UZL-854,Water - Spring
+1200352,1000057,VAN-337,Rosemary - Fresh
+1200353,,TEK-628,Crab - Whole
+1200354,1000144,YUY-287,Pear - Compound
+1200355,1000275,MAN-747,Cabbage - Savoy
+1200356,1000505,VAR-496,"Vinegar - Balsamic, White"
+1200357,1000159,SET-342,Pepper - Red Thai
+1200358,1000250,HUB-568,Pork - Smoked
+1200359,1000364,DUR-598,Apricots - Dried
+1200360,1000082,VAN-638,Sauce - Worcestershire
+1200361,1000473,FAY-838,Cheese - Brick With Pepper
+1200362,1000343,YEM-897,Bread - Italian Long
+1200363,1000348,MES-225,Pizza - Pepperoni
+1200364,1000328,KAD-664,Chicken - Whole Roasting
+1200365,1000414,NCK-887,Beef - Ribeye
+1200366,1000449,FUJ-347,Ice Cream - Fudge Bars
+1200367,1000361,DUT-828,Syrup - Maple
+1200368,1000294,FEX-737,Lettuce - Red Leaf
+1200369,1000416,GXD-466,Bread - Raisin Walnut
+1200370,1000255,JAT-574,"Pickles - Dill, Sliced"
+1200371,1000480,MEM-425,Yogurt - Raspberry
+1200372,1000238,BEP-638,"Rum - Cream, Amarula"
+1200373,,TUN-826,"Fish - Base, Bouillion"
+1200374,1000089,LUK-923,Crab - cakes
+1200375,1000448,GEH-646,"Tomatoes - Diced, Canned"
+1200376,1000210,HPM-542,Cheese - Cheddar With Claret
+1200377,1000438,PED-728,Sour Cream
+1200378,1000216,UKR-579,Rosemary - Fresh
+1200379,1000403,MMG-249,Bread - Wheat Baguette
+1200380,1000440,JAT-659,Fruit - Bananas
+1200381,1000195,PQC-768,Appetizer - crab cakes
+1200382,1000038,YMS-256,"Mustard - Dry, Powder"
+1200383,1000507,GEK-759,Lamb - Ground
+1200384,1000170,NAW-447,Cheese - Valancey
+1200385,1000251,TEN-575,"Red Snapper - Fresh, Whole"
+1200386,1000399,NST-559,"Seafood - Shrimp, bab"
+1200387,1000368,LAG-976,"Peas - Chick, Dried"
+1200388,1000307,YUN-725,Cheese - Parmigiano
+1200389,1000363,BAV-873,Bread - Sour Batard
+1200390,1000112,CCL-575,"Nut - Pecan, Halves"
+1200391,1000499,BML-875,Ham - Cooked
+1200392,1000077,HAH-899,Salt - Seasoned
+1200393,1000058,DAP-287,Pork - Ground
+1200394,1000339,XEY-265,Cheese - Le Cheve Noir
+1200395,1000090,VEN-945,"Cheese - Cheddar, Old White"
+1200396,1000185,SET-466,Sun - Dried Tomatoes
+1200397,1000069,SET-466,Sun - Dried Tomatoes
+1200398,,SER-437,Veal - Ground
+1200399,1000204,ZAP-452,Wine - Riesling
+1200400,1000369,KAK-836,Bread - Dark Rye
+1200401,1000268,CUT-235,Thyme - Fresh
+1200402,1000221,FUD-543,"Tomatoes - Vine Ripe, Yellow"
+1200403,1000376,TAK-673,Lamb - Shanks
+1200404,1000058,HEF-355,Potatoes - Peeled
+1200405,1000201,BHW-542,"Bread - Brouche, Original"
+1200406,1000118,FKS-564,Coffee - Egg Nog Capuccino
+1200407,1000297,HUV-324,Ice Cream - Strawberry
+1200408,1000438,TEP-573,"Red Snapper - Fresh, Whole"
+1200409,1000215,FEX-737,Lettuce - Red Leaf
+1200410,1000483,QAF-592,Rice - Aborio
+1200411,1000343,BUT-867,Whiskey - Irish
+1200412,1000511,MUY-666,Tea - unsweetened
+1200413,1000321,CDA-687,"Squash - Pattypan, Yellow"
+1200414,1000443,WUP-329,Eggplant - Asian
+1200415,1000454,TEM-259,"Tendrils - Baby Pea, Organic"
+1200416,1000162,TEM-345,"Chicken - Diced, Cooked"
+1200417,1000304,SAS-584,Butter - Unsalted
+1200418,1000261,GEH-646,"Tomatoes - Diced, Canned"
+1200419,1000461,DUR-598,Apricots - Dried
+1200420,1000349,CUG-336,Country Roll
+1200421,1000338,KEN-282,Pepper - Chili Powder
+1200422,1000291,WXT-692,"Sauce - Bernaise, Mix"
+1200423,1000037,PUM-886,Muffin - Blueberry
+1200424,1000325,VUM-835,Muffin - Individual Wrap
+1200425,1000451,SET-342,Pepper - Red Thai
+1200426,1000311,PQC-768,Appetizer - crab cakes
+1200427,1000032,LYM-696,Tofu - Soft
+1200428,1000073,SUY-493,"Artichokes - Knobless, White"
+1200429,1000337,GAB-893,"Tomatoes - Vine Ripe, Yellow"
+1200430,1000211,QUC-565,Pepper - Orange
+1200431,1000153,JEM-387,Salt - Celery
+1200432,1000291,DEP-996,Poppy Seed
+1200433,1000453,BUV-577,Cod - Fillets
+1200434,1000077,REH-843,"Pasta - Spaghetti, Dry"
+1200435,1000171,REH-843,"Pasta - Spaghetti, Dry"
+1200436,1000177,CAC-675,Cheese - Grana Padano
+1200437,1000367,GEW-882,Green Beans - French
+1200438,1000297,FAP-822,Tea - Green
+1200439,1000351,MEV-827,Soup - Chicken Nodle
+1200440,1000523,BUV-949,Creme De Menthe Green
+1200441,1000486,FAM-629,Sage - Grounded
+1200442,1000321,CVG-446,Soup - Cream Of Potato
+1200443,,VAN-638,Yams
+1200444,1000478,BUS-786,"Bread - Brouche, Unsliced"
+1200445,1000082,CAB-495,Soup - Beef Stew
+1200446,1000070,JAV-758,Muffin - Creme Brule
+1200447,1000399,QAA-568,Potatoes - Parissienne
+1200448,1000270,DUR-598,Apricots - Dried
+1200449,1000346,WUR-362,Potatoes - Idaho
+1200450,1000069,NAJ-876,Chips - Potato
+1200451,1000146,KUV-282,Pastry - Apple Muffins Mini
+1200452,1000289,MEL-499,Fruit - watermelons
+1200453,1000035,WAR-734,Carbonated Water - Lemon Lime
+1200454,1000333,NEQ-766,Water - Sparkling Strawberry
+1200455,1000480,TEV-987,"Cheese - Havarti, Roasted Garlic"
+1200456,1000211,BAY-498,Wine - Placido Pinot Grigo
+1200457,1000241,GAB-893,"Tomatoes - Vine Ripe, Yellow"
+1200458,1000476,YUN-534,Apple - Red
+1200459,,TEK-628,Crab - Whole
+1200460,1000134,YAY-956,Rice - Sushi
+1200461,1000347,DEY-287,Beef - Tender Tips
+1200462,1000514,KEC-864,Halibut - Steaks
+1200463,1000450,GEF-892,Basil - Fresh
+1200464,1000512,PUW-855,Juice - Lemonade
+1200465,1000455,RUD-976,"Ice - Clear, 300 Lb"
+1200466,1000159,TEH-236,"Olives - Green, Pitted"
+1200467,1000373,SER-437,Veal - Ground
+1200468,1000274,PAW-297,"Artichokes - Knobless, White"
+1200469,1000072,SET-466,Sun - Dried Tomatoes
+1200470,1000405,YAT-597,Lamb - Ground
+1200471,1000476,VAN-638,Sauce - Worcestershire
+1200472,1000336,VAR-496,"Vinegar - Balsamic, White"
+1200473,1000084,DRS-568,"Pasta - Tortellini, Fresh"
+1200474,1000187,DDH-938,Chicken - Ground
+1200475,1000234,DKS-378,"Pepper - Chipotle, Canned"
+1200476,1000490,MAK-775,Pork - Bacon strips
+1200477,1000295,YEV-327,Langers - Mango Nectar
+1200478,1000174,VEF-846,Noodles - Spiral
+1200479,1000514,GEK-946,Green Beans - French
+1200480,1000355,WUB-746,"Pineapple - Canned, Rings"
+1200481,1000267,HEG-936,Ice Cream - Vanilla
+1200482,1000082,SER-437,Veal - Ground
+1200483,1000341,YUY-287,Pear - Compound
+1200484,1000044,SUF-566,"Asparagus - White, Canned"
+1200485,1000368,REH-843,"Pasta - Spaghetti, Dry"
+1200486,1000513,SEC-826,Lettuce - Radicchio
+1200487,1000102,ASU-926,Salmon - Fresh
+1200488,1000429,VAR-496,"Vinegar - Balsamic, White"
+1200489,1000346,JAT-574,"Pickles - Dill, Sliced"
+1200490,1000500,MSY-955,Fruit - Oranges
+1200491,1000424,XAR-956,Chicken - Base
+1200492,1000187,DAY-433,Coffee -  Swiss Almond
+1200493,1000078,GAS-495,Nut - Almond
+1200494,1000412,QAW-343,Cheese - Shred Cheddar / Mozza
+1200495,1000316,QUC-565,Pepper - Orange
+1200496,1000213,YAG-562,Cheese - Asiago
+1200497,1000095,RCV-464,Bread - Pita
+1200498,1000224,CEQ-472,Thyme - Fresh
+1200499,1000339,BUT-992,Lemon Tarts
+1200500,1000454,HAH-794,"Beef - Grounded, Lean"
+1200501,1000506,BAV-843,Fork - Plastic
+1200502,1000296,WUT-348,"Pork - Loin, Center Cut"
+1200503,1000439,DUW-273,Chicken - Drums
+1200504,1000516,WUR-362,Potatoes - Idaho
+1200505,1000036,QPP-865,"Beans - Kidney, Canned"
+1200506,1000502,PEG-787,Pasta - Canelloni
+1200507,1000400,BSP-752,Sauce - Salsa
+1200508,1000329,KAY-989,"Fish - Salmon, fresh"
+1200509,,DUR-598,Apricots - Dried
+1200510,1000444,TEN-575,"Red Snapper - Fresh, Whole"
+1200511,,DEP-996,Poppy Seed
+1200512,1000318,LJB-896,Vinegar - Balsamic
+1200513,1000154,BAV-464,Water - Tonic
+1200514,1000142,RUC-676,"Coconut - Shredded, Unsweet"
+1200515,1000503,TEC-392,Bread - Wheat Baguette
+1200516,1000365,TUN-826,"Fish - Base, Bouillion"
+1200517,,LAN-657,Beef - hamburgers
+1200518,1000172,MUG-774,Crab - Legs
+1200519,1000324,WZV-842,"Pork - Back, Boneless"
+1200520,1000241,YAY-956,Rice - Sushi
+1200521,1000073,JUV-249,"Cheese - Garlic, Herbs"
+1200522,1000435,NUW-334,Onions - Green
+1200523,1000104,CDA-687,"Squash - Pattypan, Yellow"
+1200524,1000523,GEF-892,Basil - Fresh
+1200525,1000300,JMS-886,Pasta - Rotini
+1200526,1000343,YAG-562,Cheese - Asiago
+1200527,1000078,JAG-956,Sauce - Ketchup
+1200528,1000425,PEG-787,Pasta - Canelloni
+1200529,1000111,HAN-422,Ice Cream - Mint Chocolate
+1200530,1000378,FUD-543,"Tomatoes - Vine Ripe, Yellow"
+1200531,1000226,DUF-639,Onions - Green
+1200532,1000211,XVT-867,"Pasta - Lasagna Noodle, Frozen"
+1200533,1000207,GEA-239,Appetizer - Asian Shrimp Roll
+1200534,1000324,DUF-639,Onions - Green
+1200535,1000155,RAF-747,Sugar - White
+1200536,1000120,WAN-284,Extract Vanilla Pure
+1200537,1000463,DAB-569,"Beans - Kidney, Red Dry"
+1200538,1000486,LXG-996,Beef - Ground Medium
+1200539,1000406,VEL-754,"Cheese - Romano, Grated"
+1200540,1000219,VUM-835,Muffin - Individual Wrap
+1200541,1000425,NES-242,Soup - Tomato
+1200542,1000216,GEY-675,Beef - Bresaola
+1200543,1000148,WAH-238,Pastry - Chocolate Baked
+1200544,1000477,TUS-984,Truffle Cups - Brown
+1200545,1000361,FAC-636,Cheese - Gorgonzola
+1200546,1000129,PAW-654,Cheese - Feta
+1200547,1000508,WER-625,Pork Loin - In Frenched
+1200548,1000421,HBQ-745,Steak - Sirloin
+1200549,,GAB-987,"Pork - Ham, Virginia"
+1200550,1000325,NST-559,"Seafood - Shrimp, bab"
+1200551,1000410,GLE-635,Coffee - French Vanilla
+1200552,1000349,JEM-387,Salt - Celery
+1200553,1000530,BEM-932,Cheese - Cheddar
+1200554,1000375,YUN-534,Apple - Red
+1200555,1000265,JUG-987,"Zucchini - Mini, Green"
+1200556,1000067,VUN-585,Pepper - Scotch Bonnet
+1200557,1000433,JUT-479,Tea - Honey Green Tea
+1200558,1000334,PEG-787,Pasta - Canelloni
+1200559,1000246,SUW-559,Rice - Mixed
+1200560,1000102,YVJ-794,Juice - Orange
+1200561,1000097,MUR-885,Pear - Halves
+1200562,1000205,ASU-926,Salmon - Fresh
+1200563,1000078,SAV-259,"Juice - Orange, Concentrate"
+1200564,1000216,CAB-287,Soup - Beef Strogonoff
+1200565,1000527,JUG-987,"Zucchini - Mini, Green"
+1200566,1000037,GXD-466,Bread - Raisin Walnut
+1200567,1000130,HES-229,Ice Cream - Vanilla
+1200568,1000316,PQC-768,Appetizer - crab cakes
+1200569,,SER-693,Cheese - Brick With Onion
+1200570,1000317,HTU-576,"Salmon - Atlantic, No Skin"
+1200571,1000227,LAG-976,"Peas - Chick, Dried"
+1200572,1000418,YUN-725,Cheese - Parmigiano
+1200573,1000441,CUT-235,Thyme - Fresh
+1200574,1000265,FAY-838,Cheese - Brick With Pepper
+1200575,1000238,PEG-787,Pasta - Canelloni
+1200576,1000469,VER-695,Onions - Granulated
+1200577,1000192,GEK-735,"Lamb - Whole, Fresh"
+1200578,1000062,JEG-534,Chicken - Breast Wing On
+1200579,1000529,FAM-629,Sage - Grounded
+1200580,1000459,SEP-948,Bread - Crusty Italian
+1200581,1000365,DAB-569,"Beans - Kidney, Red Dry"
+1200582,1000311,MUM-626,Peppers - Yellow
+1200583,1000335,QEB-993,"Mushroom - Trumpet, Dry"
+1200584,1000295,QAA-568,Potatoes - Parissienne
+1200585,1000248,FEX-884,Cake - Cheesecake Cherry
+1200586,1000040,WUB-746,"Pineapple - Canned, Rings"
+1200587,1000194,FAN-786,Wine - Blanc
+1200588,1000288,WUC-938,Milk - Whole
+1200589,,NAV-363,Iced Tea - Lemon
+1200590,1000455,VUK-649,Juice - Lemonade
+1200591,1000041,TEC-392,Bread - Wheat Baguette
+1200592,1000273,YUF-433,Oil - Coconut
+1200593,1000279,WUT-348,"Pork - Loin, Center Cut"
+1200594,,CED-545,Radish - Pickled
+1200595,1000063,DAP-287,Pork - Ground
+1200596,,CAC-675,Cheese - Grana Padano
+1200597,1000426,DAM-635,Garlic - Peeled
+1200598,1000084,VAY-666,"Bread - White, Unsliced"
+1200599,1000426,VEF-846,Noodles - Spiral
+1200600,1000476,DUB-769,"Bread - Roll, Whole Wheat"
+1200601,1000520,RAF-747,Sugar - White
+1200602,1000436,VAX-673,Tea - Herbal Orange Spice
+1200603,1000397,LJB-896,Vinegar - Balsamic
+1200604,1000185,KAT-372,"Potatoes - Purple, Organic"
+1200605,1000417,YUR-946,Fruit Salad Deluxe
+1200606,1000380,HPQ-955,Oil - Peanut
+1200607,1000151,PEY-982,Sauce - nacho cheese
+1200608,1000487,MWH-925,Water - Vitamin enhanced
+1200609,1000501,SAL-968,Pastry - Mini Assorted
+1200610,1000111,YMA-383,Sauce - Alfredo
+1200611,1000336,CAV-968,"Nut - Chestnuts, Whole"
+1200612,1000383,FUM-876,"Coconut - Shredded, Unsweet"
+1200613,1000336,HEY-875,Bread - Sour Dough
+1200614,1000161,HAH-794,"Beef - Grounded, Lean"
+1200615,1000289,MEC-824,Pork - Chopped
+1200616,1000264,RAW-426,Pepper - Green Thai
+1200617,1000068,NEJ-748,Peach - Halves
+1200618,1000480,VEL-754,"Cheese - Romano, Grated"
+1200619,1000098,ASU-926,Salmon - Fresh
+1200620,1000181,YUN-534,Apple - Red
+1200621,1000127,YVJ-794,Juice - Orange
+1200622,1000371,CAC-675,Cheese - Grana Padano
+1200623,1000074,TUN-826,"Fish - Base, Bouillion"
+1200624,1000488,PEX-925,Soup - French Onion
+1200625,1000422,VEY-739,"Ice - clear, 5 lb"
+1200626,1000294,RCV-464,Bread - Pita
+1200627,,SAK-687,Flour - Semolina
+1200628,1000453,JUG-987,"Zucchini - Mini, Green"
+1200629,1000382,FFA-952,"Pepper - Black, Whole"
+1200630,1000076,KAG-354,Fruit - Raspberries
+1200631,1000230,ASU-926,Salmon - Fresh
+1200632,1000124,BMX-594,Sauce - Salsa
+1200633,1000317,RCV-464,Bread - Pita
+1200634,1000138,TUG-335,Tomato - Roma
+1200635,1000097,JXY-374,Tea - Peach
+1200636,1000197,NUL-937,Cake - Dulce De Leche
+1200637,1000343,WAS-649,Soup - Cream of Mushroom
+1200638,1000213,UZL-854,Water - Spring
+1200639,1000251,VAN-337,Carbonated Water - Blackberry
+1200640,1000113,QTK-267,Bread - French Baquette
+1200641,1000458,TUK-359,Sauce - Thousand Island
+1200642,1000157,CAF-533,"Fruit - Cranberries, Dried"
+1200643,1000433,WAH-476,Muffin - English
+1200644,1000205,HAM-682,Oil - Peanut
+1200645,1000058,WUR-362,Potatoes - Idaho
+1200646,1000242,WAH-476,Muffin - English
+1200647,1000334,BEP-638,"Rum - Cream, Amarula"
+1200648,1000165,HEG-936,Ice Cream - Vanilla
+1200649,1000271,TUN-826,"Fish - Base, Bouillion"
+1200650,1000359,TAS-867,Rice - Brown
+1200651,1000381,MZV-686,Cheese - Italian mix
+1200652,1000515,PAW-654,Cheese - Feta
+1200653,1000076,VAD-633,"Pepper - Red, Finger Hot"
+1200654,1000391,HEF-355,Potatoes - Peeled
+1200655,1000178,BAH-486,Crackers - Stalines
+1200656,1000358,TEV-987,"Cheese - Havarti, Roasted Garlic"
+1200657,1000243,PES-252,Chips - Nacho dips
+1200658,1000203,TEN-575,"Red Snapper - Fresh, Whole"
+1200659,1000101,NST-559,"Seafood - Shrimp, bab"
+1200660,1000341,WER-625,Cheese Cheddar Processed
+1200661,1000395,MEM-425,Yogurt - Raspberry
+1200662,1000434,WAH-735,Power Drink - Berry
+1200663,1000473,VAS-699,"Bread - White, Unsliced"
+1200664,1000132,CAV-968,"Nut - Chestnuts, Whole"
+1200665,1000122,ACT-222,Appetizer - Calamari
+1200666,1000446,JEH-754,Juice - Apple
+1200667,1000303,BEV-882,Wine - Sogrape Mateus Rose
+1200668,1000191,HAT-596,Sugar - Brown
+1200669,1000502,QEK-844,Chicken - Livers
+1200670,1000482,PEX-925,Soup - French Onion
+1200671,1000268,JUV-249,"Cheese - Garlic, Herbs"
+1200672,1000083,TUS-984,Truffle Cups - Brown
+1200673,1000283,FUT-973,Salmon - Fillets
+1200674,1000385,RLD-825,"Pasta - Lasagna Noodle, Frozen"
+1200675,1000517,WUP-329,Eggplant - Asian
+1200676,1000299,YMY-645,Bread - Italian Roll With Herbs
+1200677,1000426,MAN-747,Cabbage - Savoy
+1200678,1000134,RAW-287,Fruit - Blackberries
+1200679,1000493,UYB-947,Baking Powder
+1200680,1000296,YMS-256,"Mustard - Dry, Powder"
+1200681,1000328,TSZ-353,Tequila - Silver
+1200682,1000530,BUD-724,Beer - Buds
+1200683,1000120,GEK-277,"Nut - Pecan, Whole"
+1200684,1000156,JUT-479,Tea - Honey Green Tea
+1200685,1000324,WXT-692,"Sauce - Bernaise, Mix"
+1200686,1000317,TEN-943,Muffin - Orange Individual
+1200687,1000228,UZL-854,Water - Spring
+1200688,1000514,LAN-657,Beef - hamburgers
+1200689,1000340,MEC-824,Pork - Chopped
+1200690,1000301,TWX-665,Oil - Olive
+1200691,1000121,LXG-996,Beef - Ground Medium
+1200692,1000271,SAL-968,Pastry - Mini Assorted
+1200693,1000507,HUB-568,Pork - Smoked
+1200694,1000231,WZV-842,"Pork - Back, Boneless"
+1200695,1000106,BHW-542,"Bread - Brouche, Original"
+1200696,1000155,FAY-838,Cheese - Brick With Pepper
+1200697,1000366,BEM-932,Cheese - Cheddar
+1200698,1000163,DEK-797,Veal - Bones
+1200699,1000223,WLE-424,Rice - Wild
+1200700,1000339,QEH-998,Rhubarb
+1200701,1000382,CVG-446,Soup - Cream Of Potato
+1200702,1000276,RUT-264,"Turkey - Breast, Bone"
+1200703,1000337,RAW-287,Fruit - Blackberries
+1200704,1000155,MEV-827,Soup - Chicken Nodle
+1200705,1000284,JAG-956,Sauce - Ketchup
+1200706,1000488,FEX-737,Lettuce - Red Leaf
+1200707,1000472,YEV-768,Ice Cream Bar - Chocolate
+1200708,1000265,NEJ-748,Peach - Halves
+1200709,1000459,FUD-327,Cheese - Oka
+1200710,1000119,VAD-633,"Pepper - Red, Finger Hot"
+1200711,1000184,REW-494,Bread - Burger Buns
+1200712,1000059,MES-225,Pizza - Pepperoni
+1200713,1000519,JEH-754,Juice - Apple
+1200714,1000303,VAX-673,Tea - Herbal Orange Spice
+1200715,1000148,REY-369,Cheese - Cheddar Mix
+1200716,1000470,VEF-846,Noodles - Spiral
+1200717,1000434,KAT-372,"Potatoes - Purple, Organic"
+1200718,1000085,MEM-425,Yogurt - Raspberry
+1200719,1000099,WAR-935,Extract Vanilla Pure
+1200720,1000503,FUD-327,Cheese - Oka
+1200721,1000140,NUW-334,Onions - Green
+1200722,1000189,NSK-497,Tortillas - Flour
+1200723,1000146,TEP-573,"Red Snapper - Fresh, Whole"
+1200724,1000058,JAT-659,Fruit - Bananas
+1200725,1000366,KAG-354,Fruit - Raspberries
+1200726,1000040,PEG-787,Pasta - Canelloni
+1200727,1000409,VUN-585,Pepper - Scotch Bonnet
+1200728,1000221,MSY-955,Fruit - Oranges
+1200729,1000384,WZV-842,"Pork - Back, Boneless"
+1200730,1000471,FUT-973,Salmon - Fillets
+1200731,1000133,GAB-893,"Tomatoes - Vine Ripe, Yellow"
+1200732,1000066,TEH-236,"Olives - Green, Pitted"
+1200733,1000513,TEN-943,Muffin - Orange Individual
+1200734,1000518,CUG-336,Country Roll
+1200735,1000349,BAV-464,Water - Tonic
+1200736,,RAS-855,Sausage - long
+1200737,1000082,KAD-664,Chicken - Whole Roasting
+1200738,1000223,PUD-497,Powder - Gelatine 
+1200739,1000243,MEC-824,Pork - Chopped
+1200740,1000421,BUT-992,Lemon Tarts
+1200741,1000297,BAY-498,Wine - Placido Pinot Grigo
+1200742,1000329,MTU-899,Seafood - Trout Rainbow Whole
+1200743,1000281,WUP-983,Cookie Dough - Chunky
+1200744,1000139,CED-545,Radish - Pickled
+1200745,,YUN-534,Apple - Red
+1200746,1000254,MUR-885,Pear - Halves
+1200747,1000437,RAN-473,Mustard - Seed
+1200748,1000164,DUF-639,Onions - Green
+1200749,1000086,JES-954,Glaze - Frosting
+1200750,1000386,VRW-435,Sugar - White Packet
+1200751,1000393,LCQ-848,Cookies - Oatmeal Raisin
+1200752,1000287,TAR-356,Puree - Passion Fruit
+1200753,1000059,REN-647,Pastry - Cherry Danish
+1200754,1000290,TUN-248,"Sauce - Thousand Island, Slim"
+1200755,1000151,WUP-329,Eggplant - Asian
+1200756,1000175,GAS-495,Cheese - Cream Cheese
+1200757,1000404,DKS-378,"Pepper - Chipotle, Canned"
+1200758,1000122,BAY-498,Wine - Placido Pinot Grigo
+1200759,1000501,PUJ-379,Iced Tea - Peach
+1200760,1000134,FAP-444,Sage - Whole
+1200761,1000383,YAT-546,Honey - Lavender
+1200762,1000514,YEM-897,Bread - Italian Long
+1200763,1000488,JMS-886,Pasta - Rotini
+1200764,1000380,HFD-769,"Wine - Red, Wolf Blass, Yellow"
+1200765,1000386,DDH-938,Chicken - Ground
+1200766,1000378,REW-494,Bread - Burger Buns
+1200767,1000161,JUG-987,"Zucchini - Mini, Green"
+1200768,1000258,SUB-984,Soup - Cream Of Broccoli
+1200769,1000394,XEC-993,Pear - Packum
+1200770,1000188,DHY-365,"Pasta - Ravioli, Cheese"
+1200771,1000217,VAD-633,"Pepper - Red, Finger Hot"
+1200772,1000414,QVW-855,Clams - Bay
+1200773,1000096,FAY-838,Cheese - Brick With Pepper
+1200774,1000292,WRA-569,"Beef - Ground, Extra Lean"
+1200775,1000293,LCQ-848,Cookies - Oatmeal Raisin
+1200776,1000292,NJA-228,Celery - Chopped
+1200777,1000083,KAT-372,"Potatoes - Purple, Organic"
+1200778,1000484,GDK-746,Wine - Casillero Del Diablo
+1200779,1000179,RAS-855,Sausage - long
+1200780,1000256,DEY-287,Beef - Tender Tips
+1200781,1000033,ACT-222,Appetizer - Calamari
+1200782,1000076,TAS-395,"Zucchini - Mini, Green"
+1200783,1000445,CUG-336,Country Roll
+1200784,,MUR-495,Tea - Vanilla Chai
+1200785,1000363,MUR-495,Tea - Vanilla Chai
+1200786,1000132,CED-545,Radish - Pickled
+1200787,1000286,SEG-332,Pie - Salted Caramel Apple
+1200788,1000443,MES-225,Pizza - Pepperoni
+1200789,1000347,HUR-756,Ice Cream - Strawberry
+1200790,1000335,CAG-795,Cocoa Powder - Dutched
+1200791,1000123,JXY-374,Tea - Peach
+1200792,1000370,GAS-495,Cheese - Cream Cheese
+1200793,1000061,JEM-387,Salt - Celery
+1200794,1000519,MEV-827,Soup - Chicken Nodle
+1200795,1000250,PED-728,Sour Cream
+1200796,1000454,DUT-828,Syrup - Maple
+1200797,1000110,QMW-466,Sea Bass - Fillets
+1200798,1000312,UYB-947,Baking Powder
+1200799,1000191,FFA-952,Wine - Blanc
+1200800,1000147,PED-728,Sour Cream
+1200801,1000179,WAY-995,Flour - Fast / Rapid
+1200802,1000206,RAA-794,Bacon Strip Precooked
+1200803,1000146,SEC-826,Lettuce - Radicchio
+1200804,1000068,JUG-987,"Zucchini - Mini, Green"
+1200805,1000154,JEH-754,Juice - Apple
+1200806,1000263,PAR-975,Bread - French Stick
+1200807,1000082,YEG-368,"Cheese - Mozzarella, Shredded"
+1200808,1000342,KUV-282,Pastry - Apple Muffins Mini
+1200809,1000279,REH-843,"Pasta - Spaghetti, Dry"
+1200810,1000231,QTK-267,Bread - French Baquette
+1200811,1000432,YAY-956,Rice - Sushi
+1200812,1000518,QAB-442,Chicken - Whole
+1200813,1000246,SEC-826,Lettuce - Radicchio
+1200814,1000228,CEF-662,Ginger - Fresh
+1200815,1000310,BUJ-954,Lamb - Half
+1200816,1000471,WUP-983,Cookie Dough - Chunky
+1200817,1000336,XAR-956,Chicken - Base
+1200818,1000320,RES-645,"Pork - Bacon, Sliced"
+1200819,1000263,GEF-892,Basil - Fresh
+1200820,1000496,HBK-222,Pizza - Cheese
+1200821,1000150,WUR-362,Potatoes - Idaho
+1200822,1000301,GAW-943,Lambcasing
+1200823,1000034,GDK-746,Neckerchief Blck
+1200824,1000146,TAC-292,Cake - Red Velvet
+1200825,1000353,FEX-884,"Pepper - Black, Whole"
+1200826,1000176,JAG-956,Sauce - Ketchup
+1200827,1000150,TEM-345,"Chicken - Diced, Cooked"
+1200828,1000241,FAP-822,Tea - Green
+1200829,1000222,CDA-687,"Squash - Pattypan, Yellow"
+1200830,1000429,SUF-566,"Asparagus - White, Canned"
+1200831,1000102,TZY-488,Beans - Soy Bean
+1200832,,VAS-699,"Bread - White, Unsliced"
+1200833,1000314,RAA-794,Bacon Strip Precooked
+1200834,1000527,TAS-867,Rice - Brown
+1200835,1000519,JUM-842,Fruit - Nectarines
+1200836,1000253,BEW-468,Ham - Cooked
+1200837,1000168,SEP-948,Bread - Crusty Italian
+1200838,1000363,WAS-947,Rice - Wild
+1200839,1000322,VUM-835,Muffin - Individual Wrap
+1200840,1000066,MAP-598,Juice - Cranberry
+1200841,1000526,TEH-236,"Olives - Green, Pitted"
+1200842,1000494,NJA-843,Yogurt - Plain
+1200843,1000451,PAR-975,"Juice - Pineapple, pulp"
+1200844,1000371,JAG-956,Sauce - Ketchup
+1200845,1000433,JUT-479,Tea - Honey Green Tea
+1200846,1000097,GXD-466,Bread - Raisin Walnut
+1200847,1000052,MUY-666,Tea - unsweetened
+1200848,1000508,TUV-483,Beans - French
+1200849,1000310,BMX-594,Sauce - Salsa
+1200850,1000055,SEC-826,Lettuce - Radicchio
+1200851,1000239,TEC-392,Bread - Wheat Baguette
+1200852,1000493,DEB-939,Puree - Mocha
+1200853,1000488,QPP-865,"Beans - Kidney, Canned"
+1200854,1000286,VAS-699,"Bread - White, Unsliced"
+1200855,1000305,DEW-978,Chicken Thigh - Skinless
+1200856,1000049,FAP-444,Sage - Whole
+1200857,1000109,TEM-345,"Chicken - Diced, Cooked"
+1200858,1000215,CEQ-472,Thyme - Fresh
+1200859,1000483,KAX-978,Cake - Marble
+1200860,1000314,TAS-958,"Shrimp - Baby, Fresh"
+1200861,1000043,HEY-875,Bread - Sour Dough
+1200862,1000371,VAS-699,"Bread - White, Unsliced"
+1200863,1000076,VER-695,Onions - Granulated
+1200864,1000445,BAV-464,Water - Tonic
+1200865,,MEL-499,Fruit - watermelons
+1200866,1000212,SER-845,Crab - Claws
+1200867,1000473,JAG-956,Sauce - Ketchup
+1200868,1000065,DUW-273,Chicken - Drums
+1200869,1000162,BEN-574,Muffin - Carrot Spice
+1200870,1000291,GLE-635,Coffee - French Vanilla
+1200871,1000202,NES-242,Soup - Tomato
+1200872,1000325,MTU-899,Seafood - Trout Rainbow Whole
+1200873,1000185,TUS-984,Truffle Cups - Brown
+1200874,1000425,TEC-392,Bread - Wheat Baguette
+1200875,1000127,PAF-629,Cheese - Asiago
+1200876,1000221,FFA-952,"Pepper - Black, Whole"
+1200877,1000524,SET-342,Pepper - Red Thai
+1200878,1000443,DEY-287,Beef - Tender Tips
+1200879,1000296,CEF-638,Pastry - Cream donut
+1200880,1000296,MAK-775,Pork - Bacon strips
+1200881,,QEP-927,Pork - Loin
+1200882,1000447,QAW-343,Cheese - Shred Cheddar / Mozza
+1200883,1000326,BML-875,Ham - Cooked
+1200884,1000167,BUY-498,Beef - Smoked Brisket
+1200885,1000325,DAP-287,Pork - Ground
+1200886,1000515,JAK-827,Baking Powder
+1200887,1000088,FKS-564,Coffee - Egg Nog Capuccino
+1200888,1000153,NAC-849,Asparagus - Frozen
+1200889,1000322,NJA-843,Yogurt - Plain
+1200890,1000120,SKX-845,Artichoke - Fresh
+1200891,1000470,KAT-372,Tea - Honey Green Tea
+1200892,1000257,MES-225,Pizza - Pepperoni
+1200893,1000439,YEM-897,Bread - Italian Long
+1200894,1000062,JUM-842,Fruit - Nectarines
+1200895,1000254,YUN-725,Cheese - Parmigiano
+1200896,1000397,RLD-825,"Pasta - Lasagna Noodle, Frozen"
+1200897,1000110,NSK-497,Tortillas - Flour
+1200898,1000239,BUK-975,"Bread - Brouche, Wheat"
+1200899,1000489,DCC-844,Coffee Beans - Chocolate
+1200900,1000130,JUT-479,Tea - Honey Green Tea
+1200901,1000192,XEY-265,Cheese - Le Cheve Noir
+1200902,1000353,RAF-747,Sugar - White
+1200903,1000193,FUD-327,Cheese - Oka
+1200904,,FUT-973,Salmon - Fillets
+1200905,1000078,WUP-983,Cookie Dough - Chunky
+1200906,1000503,HEY-875,Bread - Sour Dough
+1200907,1000208,NUL-937,Cake - Dulce De Leche
+1200908,1000034,HPQ-955,Oil - Peanut
+1200909,1000186,RAW-426,Pepper - Green Thai
+1200910,1000285,CAC-675,Cheese - Grana Padano
+1200911,1000142,SAD-963,Flour - Corn
+1200912,1000059,DEY-287,Beef - Tender Tips
+1200913,1000364,PUM-886,Muffin - Blueberry
+1200914,1000264,TAS-867,Rice - Brown
+1200915,1000200,PEX-925,Soup - French Onion
+1200916,1000195,GED-347,Plasticforkblack
+1200917,1000376,DUB-769,Spice - Pepper Portions
+1200918,1000372,JUH-347,Sauce - Sesame Thai
+1200919,1000403,WRA-569,"Beef - Ground, Extra Lean"
+1200920,1000050,NEQ-766,Water - Sparkling Strawberry
+1200921,1000361,TEM-259,Ecolab - Hobart Washarm End Cap
+1200922,1000183,VAN-638,Sauce - Worcestershire
+1200923,1000066,BUV-577,Cod - Fillets
+1200924,1000475,SER-437,Veal - Ground
+1200925,1000489,QMW-466,Sea Bass - Fillets
+1200926,1000057,YEM-897,Bread - Italian Long
+1200927,1000241,VAR-496,"Vinegar - Balsamic, White"
+1200928,1000152,BUD-346,Beer - Buds Lighten
+1200929,1000166,LAN-657,Beef - hamburgers
+1200930,1000228,HXG-765,Apricots - Dried
+1200931,1000493,YDR-746,Onions - Chopped
+1200932,1000283,GAS-495,Cheese - Cream Cheese
+1200933,1000299,PES-252,Chips - Nacho dips
+1200934,1000430,GAB-893,"Tomatoes - Vine Ripe, Yellow"
+1200935,1000266,BUD-724,Beer - Buds
+1200936,1000246,QEB-993,"Mushroom - Trumpet, Dry"
+1200937,1000315,DHY-365,"Pasta - Ravioli, Cheese"
+1200938,1000458,XAK-234,"Pork - Back, Long Cut, Boneless"
+1200939,1000375,RAS-855,Sausage - long
+1200940,1000170,YED-835,Rum - Dark Bacardi
+1200941,1000088,SKX-845,Artichoke - Fresh
+1200942,1000313,DRS-568,"Pasta - Tortellini, Fresh"
+1200943,1000526,BUV-577,Cod - Fillets
+1200944,1000295,RCV-464,Bread - Pita
+1200945,1000052,NUW-334,Onions - Green
+1200946,1000045,VAR-496,"Vinegar - Balsamic, White"
+1200947,1000438,LUK-923,Crab - cakes
+1200948,1000092,YMA-383,Sauce - Alfredo
+1200949,1000505,SUF-566,"Asparagus - White, Canned"
+1200950,1000058,JAK-827,Baking Powder
+1200951,1000151,NES-242,Soup - Tomato
+1200952,,GAS-495,Cheese - Cream Cheese
+1200953,1000235,SEL-447,Lettuce - Radicchio
+1200954,1000320,VAX-673,Tea - Herbal Orange Spice
+1200955,1000061,DEW-978,Chicken Thigh - Skinless
+1200956,1000448,GUC-654,Sauce - Cranberry
+1200957,1000165,JUV-249,"Cheese - Garlic, Herbs"
+1200958,1000351,JEH-754,Juice - Apple
+1200959,1000049,RAW-287,Fruit - Blackberries
+1200960,1000527,NEJ-748,Peach - Halves
+1200961,1000086,FFA-952,"Pepper - Black, Whole"
+1200962,1000469,FAM-778,"Pepper - Black, Whole"
+1200963,1000319,XEY-265,Cheese - Le Cheve Noir
+1200964,1000268,PES-252,Chips - Nacho dips
+1200965,1000419,HUB-568,Pork - Smoked
+1200966,1000484,TAC-292,Cake - Red Velvet
+1200967,1000379,CKY-553,Wine - Concord
+1200968,1000093,MUN-355,Tomatoes - Plum
+1200969,1000244,KUJ-438,Juice - Pineapple
+1200970,,JAG-956,Sauce - Ketchup
+1200971,1000075,KAD-664,Chicken - Whole Roasting
+1200972,1000259,YUD-399,Potato - Sweet
+1200973,1000267,SUY-493,"Artichokes - Knobless, White"
+1200974,1000241,CAG-795,Cocoa Powder - Dutched
+1200975,1000390,QAA-568,Potatoes - Parissienne
+1200976,1000108,MZV-686,Cheese - Italian mix
+1200977,1000293,QEH-998,Rhubarb
+1200978,1000411,WRA-569,"Beef - Ground, Extra Lean"
+1200979,1000494,WUC-938,Milk - Whole
+1200980,1000293,KAM-573,Flour - White Cake mix
+1200981,1000531,BAV-873,Bread - Sour Batard
+1200982,1000083,REW-494,Bread - Burger Buns
+1200983,1000260,GUC-654,Sauce - Cranberry
+1200984,1000160,TAS-867,Rice - Brown
+1200985,1000341,FUW-683,Pineapple - Regular
+1200986,1000469,RUT-264,"Turkey - Breast, Bone"
+1200987,1000202,QEB-993,"Mushroom - Trumpet, Dry"
+1200988,1000205,GEK-277,"Nut - Pecan, Whole"
+1200989,1000201,WER-625,Pork Loin - In Frenched
+1200990,1000107,QAB-984,Milk - chocolate
+1200991,1000244,MUY-666,Tea - unsweetened
+1200992,1000452,TEH-236,"Olives - Green, Pitted"
+1200993,1000171,TAS-395,"Zucchini - Mini, Green"
+1200994,1000102,HEN-533,Wine - Pinot
+1200995,1000489,PEX-925,Soup - French Onion
+1200996,1000149,JAK-827,Baking Powder
+1200997,1000211,DKS-378,"Pepper - Chipotle, Canned"
+1200998,1000200,DEB-939,Puree - Mocha
+1200999,1000315,MAK-775,Pork - Bacon strips
+1201000,1000530,WAS-947,Rice - Wild
